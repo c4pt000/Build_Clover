@@ -122,7 +122,7 @@ var_defaults=(
 	"USENTFS",,,"NO"
 	"GITHUB",,,""
 	"CLOVER_REP",,,"https://github.com/c4pt000/clover-4920-q35"
-	"EDK2_REP",,,"https://github.com/tianocore/edk2"
+	"EDK2_REP",,,"https://svn.code.sf.net/p/edk2/code/trunk/edk2"
 	"DISABLE_CLEAR",,,"NO"
 	"MY_SCRIPT",,,
 	"FAST_UPDATE",,,"NO"
@@ -1644,7 +1644,7 @@ if [[ "${cus_conf}" != "Y" ]]; then
 	fi
 fi
 
-#EDK2_REV="${EDK2_REV:-28976}"
+EDK2_REV="${EDK2_REV:-28976}"
 
 if [[ "${useDefaults}" == "Y" ]]; then
 	LoadDefaults
