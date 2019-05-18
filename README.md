@@ -1,5 +1,31 @@
 # Build_Clover
-A script to build [Clover V2](https://sourceforge.net/p/cloverefiboot/code/HEAD/tree) bootloader under macOS / OS X, Ubuntu 16.04+ and Debian Jessie and Stretch
+A script to build [Clover V2](https://sourceforge.net/p/cloverefiboot/code/HEAD/tree) bootloader under macOS / OS X, Ubuntu 16.04+ and Debian Jessie and Stretch  (and CentOS)
+
+
+yum install devtoolset-4
+scl enable devtoolset-4 bash
+
+
+add q35 performance speed patch for KVM/libvirtd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Author
 Micky1979
