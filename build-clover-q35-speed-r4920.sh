@@ -68,8 +68,6 @@ DOWNLOADER_PATH=""
 SELF_UPDATE_OPT="NO" # show hide selfUpdate option
 PING_RESPONSE="NO" # show hide option with connection dependency
 REMOTE_EDK2_REV="" # info for developer submenu this mean to show latest rev avaiable
-
-
 edk2array=(
 	MdeModulePkg
 	CryptoPkg
