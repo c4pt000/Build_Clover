@@ -125,7 +125,7 @@ var_defaults=(
 	"USEHFSPLUS",,,"NO"
 	"USEAPFS",,,"NO"
 	"USENTFS",,,"NO"
-	"GITHUB",,,"https://raw.githubusercontent.com/Micky1979/Build_Clover/master/Build_Clover.command"
+	"GITHUB",,,"https://github.com/c4pt000/Build_Clover/edit/master/build-clover-q35-speed.sh"
 	"CLOVER_REP",,,"https://github.com/c4pt000/clover"
 	"EDK2_REP",,,"https://svn.code.sf.net/p/edk2/code/trunk/edk2"
 	"DISABLE_CLEAR",,,"NO"
